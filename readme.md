@@ -9,3 +9,8 @@ added new lines to the feature branch
 added few lines to check pull request
 
 adding few more lines 
+
+# merge with master
+
+added few lines here
+
